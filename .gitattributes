@@ -3,7 +3,6 @@
 /.cz.yaml                export-ignore
 /.pre-commit-config.yaml export-ignore
 /CHANGELOG.md            export-ignore
-/composer.json           export-ignore
 /composer.lock           export-ignore
 /README.md               export-ignore
 
